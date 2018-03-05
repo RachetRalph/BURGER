@@ -1,11 +1,15 @@
 body {
     width: 99%;
     height: 900px;
-    background-color: #fc6;
+    background-color: rgb(193, 211, 207);
 }
 
 #top-bar {
     margin-top: 28px;
+}
+
+#burger {
+    height: 200px;
 }
 
 .spacing-reset {
@@ -55,7 +59,7 @@ body {
 }
 
 .button-size {
-    padding-bottom: 20px;
+    padding-bottom: 25px;
 }
 
 #text-enter-button {
@@ -66,3 +70,5 @@ body {
 h1 {
     color: #f30;
 }
+
+
