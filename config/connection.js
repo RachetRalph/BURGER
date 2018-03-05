@@ -1,8 +1,8 @@
 // MySQL connection setup // 
-var mysql = require("mysql"); 
+const mysql = require("mysql"); 
 
 // Create the MySQL connection object
-var connection;
+const connection;
 
 if (process.env.JAWSDB_URL) {
     // DB is JawsDB on Heroku
@@ -15,8 +15,8 @@ if (process.env.JAWSDB_URL) {
         user: 'root',
         password: 'root',
         database: 'burgers_db'
-    })
-};
+    });
+}
 
 connection.connect(function (err) { 
     if (err) { 
