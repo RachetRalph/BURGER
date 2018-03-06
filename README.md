@@ -1,9 +1,7 @@
-<h1 align="center>
-BURGER
-</h1>
+# BURGER #
 
 
 
 <p align="center">
-  <img src="./public/assets/img/burger.png" width="350"/>
+  <img src="./public/assets/img/burger.png" width="250"/>
 </p>
