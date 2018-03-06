@@ -1,4 +1,6 @@
-# BURGER
+<h1 align="center>
+BURGER
+</h1>
 
 
 
