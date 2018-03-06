@@ -12,6 +12,12 @@ body {
     height: 200px;
 }
 
+#text-enter-button {
+    font-size: 25px;
+    background-color: #60B0F4;
+
+}
+
 .spacing-reset {
     padding: 0;
     margin: 0;
